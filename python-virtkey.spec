@@ -1,7 +1,7 @@
 Summary:	Python extension for emulating keypresses and getting layout information from the X server
 Name:		python-virtkey
 Version:	0.60.0
-Release:	1
+Release:	2
 License:	LGPL v3
 Group:		Development/Languages/Python
 Source0:	http://launchpad.net/python-virtkey/0.60/0.60.0/+download/%{name}-%{version}.tar.gz
