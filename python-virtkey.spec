@@ -7,6 +7,7 @@ Group:		Development/Languages/Python
 Source0:	http://launchpad.net/python-virtkey/0.60/0.60.0/+download/%{name}-%{version}.tar.gz
 # Source0-md5:	f4f6776f379bc635a29eac83a14fdde5
 URL:		http://launchpad.net/python-virtkey
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	gtk+2-devel
 BuildRequires:	pkgconfig
 BuildRequires:	python-devel
